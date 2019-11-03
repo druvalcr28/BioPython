@@ -61,8 +61,9 @@ def main():
     # orgDict = makeDict("input.txt")
     # findProteins("Homo sapiens (Human)",orgDict)
     # findDiff(orgDict)
+    # longestProt("input.txt")
     # maxInter(orgDict)
-    longestProt("input.txt")
+
 
 if __name__ == '__main__':
     main()
